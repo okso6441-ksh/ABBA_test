@@ -1,4 +1,4 @@
-# ABBA 데이터 분석 직무 과제
+# ABBA 데이터 분석 직무
 
 ## 1. 데이터 설명(input.zip)
 * train.csv : 학습 데이터
@@ -7,7 +7,7 @@
 * sample_submission.csv : 제출 포맷
   - csv를 바로 열면 한글이 깨져 보입니다. import pandas as pd; pd.read_csv로 읽으면 깨지지 않습니다.
 
-## 2. 과제 설명
+## 2. 설명
 - *두가지 선택지 중 선택*
 ### 2-1) EDA
   - train, building_info, test 파일을 이용하여 Insight 도출
